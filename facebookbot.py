@@ -7,7 +7,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 import PySimpleGUI as sg
-import os
 import time
 from time import sleep
 import chromedriver_autoinstaller
